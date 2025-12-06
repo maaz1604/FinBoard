@@ -19,7 +19,6 @@ A modern, customizable financial dashboard built with Next.js for real-time data
   - **Chart**: Visualize time-series data with line charts
 - **🔄 Auto-Refresh**: Configurable refresh intervals for real-time updates
 - **📱 Responsive Grid**: Drag-and-drop, resizable widgets with react-grid-layout
-- **🌙 Dark Mode**: Built-in dark theme support
 - **💾 Persistent State**: Widgets and layouts saved to localStorage
 
 ## 🚀 Getting Started
@@ -33,7 +32,7 @@ A modern, customizable financial dashboard built with Next.js for real-time data
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/maaz1604/FinBoard.git
 cd finboard
 ```
 
@@ -125,6 +124,10 @@ finboard/
 - **Grid Layout**: [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
 - **Charts**: [Recharts](https://recharts.org/)
 - **Icons**: [Lucide React](https://lucide.dev/)
+
+## 👨‍💻 Author
+**Maaz Amir**  
+GitHub: [@maaz1604](https://github.com/maaz1604)
 
 ## 📝 API Integration Example
 
