@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+.react-grid-placeholder {
+  @apply !bg-blue-500/10 !border-2 !border-dashed !border-blue-500 !rounded-xl;
+  opacity: 0.5 !important;
+}
+
+.react-resizable-handle {
+  @apply after:border-r-2 after:border-b-2 after:border-gray-400;
+  width: 20px;
+  height: 20px;
+  bottom: 5px !important;
+  right: 5px !important;
+  z-index: 50 !important; /* Ensure handle is above chart content */
+  cursor: se-resize;
+}
