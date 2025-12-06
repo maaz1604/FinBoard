@@ -7,6 +7,12 @@ A modern, customizable financial dashboard built with Next.js for real-time data
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8)
 
+## 📖 About
+
+Finboard Finance is a powerful, interactive dashboard application designed for visualizing financial data in real-time. Built with the latest web technologies, it allows users to create custom widgets that connect to any REST API endpoint, making it perfect for tracking stocks, cryptocurrencies, portfolio metrics, or any other financial data sources.
+
+The application features a drag-and-drop interface with resizable widgets, intelligent data formatting, and automatic refresh capabilities. Whether you're a trader monitoring market movements, a finance professional tracking KPIs, or an enthusiast exploring financial APIs, Finboard provides an intuitive and flexible platform to visualize your data exactly how you want it.
+
 ## ✨ Features
 
 - **🎨 Customizable Widgets**: Create card, table, and chart widgets with flexible configurations
